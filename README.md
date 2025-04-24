@@ -4,12 +4,9 @@ Welcome to the **Task Manager**, a beautifully designed iOS application built wi
 
 ---
 
-## Screenshots
-
 <p align="center">
-  <img src="https://github.com/your-username/TaskManager-iOSApp/blob/main/Mockups/ss1.png" alt="Task List" width="250">
-  <img src="https://github.com/your-username/TaskManager-iOSApp/blob/main/Mockups/ss2.png" alt="Add Task" width="250">
-  <img src="https://github.com/your-username/TaskManager-iOSApp/blob/main/Mockups/ss3.png" alt="Task Details" width="250">
+  <img src="https://github.com/Shrijit007/TaskManager-iOSApp/blob/main/iPhone%2015%20Pro%20Black%20Titanium%20Mockup/ss1.png?raw=true" alt="Task List" width="250">
+  <img src="https://github.com/Shrijit007/TaskManager-iOSApp/blob/main/iPhone%2015%20Pro%20Black%20Titanium%20Mockup/ss2.png?raw=true" alt="Add Task" width="250">
 </p>
 
 ---
