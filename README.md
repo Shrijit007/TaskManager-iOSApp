@@ -1,4 +1,4 @@
-# Task Manager - iOS App &nbsp; <img src="https://github.com/your-username/TaskManager-iOSApp/blob/main/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png" width="40" alt="App Icon">
+# Task Manager - iOS App &nbsp; <img src="https://github.com/Shrijit007/TaskManager-iOSApp/blob/main/TaskManager/Assets.xcassets/AppIcon.appiconset/iOS%20Icon%20Design.png?raw=true" width="40" alt="App Icon">
 
 Welcome to the **Task Manager**, a beautifully designed iOS application built with **Swift** and **SwiftUI**. This app focuses purely on user interface design and layout, showcasing an intuitive and visually appealing task management experience.
 
